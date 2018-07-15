@@ -5,3 +5,9 @@ obj/**
 *.app
 *.unitypackage
 Assets/AniInstancing/Scripts/AnimationInstancing.cs
+
+
+#visual stuido
+/.vs
+*.sln
+*.csproj
